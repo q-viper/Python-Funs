@@ -1,2 +1,2 @@
 #Python
-All about python.
+Doing boring stuff with python.
